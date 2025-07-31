@@ -17,11 +17,6 @@ This repository contains the weekly code submissions for the AI/ML project.
 
 ---
 
-## 🔗 Model Link
-
-You can access the model via Google Drive:
-
-[Click here to view/download the model](https://drive.google.com/file/d/1KYDykavp083vIfMz4P8mf9aR48EY58Ca/view?usp=drivesdk)
 
 ---
 
